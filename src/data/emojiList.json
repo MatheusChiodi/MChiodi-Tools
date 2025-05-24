@@ -1,0 +1,983 @@
+[
+  {
+    "symbol": "😀",
+    "name": "Rosto sorridente",
+    "category": "Pessoas",
+    "keywords": [
+      "feliz",
+      "sorriso",
+      "rosto",
+      "smile"
+    ]
+  },
+  {
+    "symbol": "😂",
+    "name": "Rindo às lágrimas",
+    "category": "Pessoas",
+    "keywords": [
+      "rindo",
+      "engraçado",
+      "feliz"
+    ]
+  },
+  {
+    "symbol": "❤️",
+    "name": "Coração vermelho",
+    "category": "Símbolos",
+    "keywords": [
+      "amor",
+      "coração",
+      "romance"
+    ]
+  },
+  {
+    "symbol": "🔥",
+    "name": "Fogo",
+    "category": "Objetos",
+    "keywords": [
+      "fogo",
+      "chama",
+      "trending"
+    ]
+  },
+  {
+    "symbol": "🚀",
+    "name": "Foguete",
+    "category": "Viagem",
+    "keywords": [
+      "foguete",
+      "subir",
+      "startup"
+    ]
+  },
+  {
+    "symbol": "🌍",
+    "name": "Planeta Terra",
+    "category": "Natureza",
+    "keywords": [
+      "planeta",
+      "terra",
+      "mundo"
+    ]
+  },
+  {
+    "symbol": "🍕",
+    "name": "Pizza",
+    "category": "Comida",
+    "keywords": [
+      "pizza",
+      "comida",
+      "fome"
+    ]
+  },
+  {
+    "symbol": "🐶",
+    "name": "Cachorro",
+    "category": "Animais",
+    "keywords": [
+      "cachorro",
+      "pet",
+      "dog"
+    ]
+  },
+  {
+    "symbol": "📱",
+    "name": "Celular",
+    "category": "Objetos",
+    "keywords": [
+      "celular",
+      "telefone",
+      "smartphone"
+    ]
+  },
+  {
+    "symbol": "🎉",
+    "name": "Festa",
+    "category": "Atividades",
+    "keywords": [
+      "festa",
+      "celebração",
+      "party"
+    ]
+  },
+  {
+    "symbol": "🌈",
+    "name": "Arco-íris",
+    "category": "Natureza",
+    "keywords": [
+      "arco-íris",
+      "natureza",
+      "colorido"
+    ]
+  },
+  {
+    "symbol": "💻",
+    "name": "Notebook",
+    "category": "Objetos",
+    "keywords": [
+      "computador",
+      "notebook",
+      "laptop"
+    ]
+  },
+  {
+    "symbol": "🧠",
+    "name": "Cérebro",
+    "category": "Pessoas",
+    "keywords": [
+      "cérebro",
+      "inteligência",
+      "mente"
+    ]
+  },
+  {
+    "symbol": "🎯",
+    "name": "Alvo",
+    "category": "Atividades",
+    "keywords": [
+      "alvo",
+      "foco",
+      "precisão"
+    ]
+  },
+  {
+    "symbol": "🏆",
+    "name": "Troféu",
+    "category": "Atividades",
+    "keywords": [
+      "troféu",
+      "vitória",
+      "prêmio"
+    ]
+  },
+  {
+    "symbol": "📸",
+    "name": "Câmera",
+    "category": "Objetos",
+    "keywords": [
+      "câmera",
+      "foto",
+      "fotografia"
+    ]
+  },
+  {
+    "symbol": "✈️",
+    "name": "Avião",
+    "category": "Viagem",
+    "keywords": [
+      "avião",
+      "viajar",
+      "voar"
+    ]
+  },
+  {
+    "symbol": "🍔",
+    "name": "Hambúrguer",
+    "category": "Comida",
+    "keywords": [
+      "hambúrguer",
+      "comida",
+      "fome"
+    ]
+  },
+  {
+    "symbol": "🐱",
+    "name": "Gato",
+    "category": "Animais",
+    "keywords": [
+      "gato",
+      "felino",
+      "pet"
+    ]
+  },
+  {
+    "symbol": "⚽",
+    "name": "Bola de Futebol",
+    "category": "Atividades",
+    "keywords": [
+      "futebol",
+      "esporte",
+      "bola"
+    ]
+  },
+  {
+    "symbol": "😁",
+    "name": "Emoji 1",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😃",
+    "name": "Emoji 2",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😄",
+    "name": "Emoji 3",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😅",
+    "name": "Emoji 4",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😆",
+    "name": "Emoji 5",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😇",
+    "name": "Emoji 6",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😈",
+    "name": "Emoji 7",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😉",
+    "name": "Emoji 8",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😊",
+    "name": "Emoji 9",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😋",
+    "name": "Emoji 10",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😌",
+    "name": "Emoji 11",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😍",
+    "name": "Emoji 12",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😎",
+    "name": "Emoji 13",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😏",
+    "name": "Emoji 14",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😐",
+    "name": "Emoji 15",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😑",
+    "name": "Emoji 16",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😒",
+    "name": "Emoji 17",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😓",
+    "name": "Emoji 18",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😔",
+    "name": "Emoji 19",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😕",
+    "name": "Emoji 20",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😖",
+    "name": "Emoji 21",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😗",
+    "name": "Emoji 22",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😘",
+    "name": "Emoji 23",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😙",
+    "name": "Emoji 24",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😚",
+    "name": "Emoji 25",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😛",
+    "name": "Emoji 26",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😜",
+    "name": "Emoji 27",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😝",
+    "name": "Emoji 28",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😞",
+    "name": "Emoji 29",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😟",
+    "name": "Emoji 30",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😠",
+    "name": "Emoji 31",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😡",
+    "name": "Emoji 32",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😢",
+    "name": "Emoji 33",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😣",
+    "name": "Emoji 34",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😤",
+    "name": "Emoji 35",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😥",
+    "name": "Emoji 36",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😦",
+    "name": "Emoji 37",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😧",
+    "name": "Emoji 38",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😨",
+    "name": "Emoji 39",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😩",
+    "name": "Emoji 40",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😪",
+    "name": "Emoji 41",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😫",
+    "name": "Emoji 42",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😬",
+    "name": "Emoji 43",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😭",
+    "name": "Emoji 44",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😮",
+    "name": "Emoji 45",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😯",
+    "name": "Emoji 46",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😰",
+    "name": "Emoji 47",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😱",
+    "name": "Emoji 48",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😲",
+    "name": "Emoji 49",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😳",
+    "name": "Emoji 50",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😴",
+    "name": "Emoji 51",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😵",
+    "name": "Emoji 52",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😶",
+    "name": "Emoji 53",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😷",
+    "name": "Emoji 54",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😸",
+    "name": "Emoji 55",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😹",
+    "name": "Emoji 56",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😺",
+    "name": "Emoji 57",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😻",
+    "name": "Emoji 58",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😼",
+    "name": "Emoji 59",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😽",
+    "name": "Emoji 60",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😾",
+    "name": "Emoji 61",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "😿",
+    "name": "Emoji 62",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙀",
+    "name": "Emoji 63",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙁",
+    "name": "Emoji 64",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙂",
+    "name": "Emoji 65",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙃",
+    "name": "Emoji 66",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙄",
+    "name": "Emoji 67",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙅",
+    "name": "Emoji 68",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙆",
+    "name": "Emoji 69",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙇",
+    "name": "Emoji 70",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙈",
+    "name": "Emoji 71",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙉",
+    "name": "Emoji 72",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙊",
+    "name": "Emoji 73",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙋",
+    "name": "Emoji 74",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙌",
+    "name": "Emoji 75",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙍",
+    "name": "Emoji 76",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙎",
+    "name": "Emoji 77",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  },
+  {
+    "symbol": "🙏",
+    "name": "Emoji 78",
+    "category": "Diversos",
+    "keywords": [
+      "emoji",
+      "diversos",
+      "unicode"
+    ]
+  }
+]

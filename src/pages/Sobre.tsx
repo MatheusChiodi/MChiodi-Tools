@@ -120,7 +120,7 @@ export function Sobre() {
           <div className="rounded-2xl border border-neutral-800 bg-neutral-950 p-4 text-center">
             <p className="text-sm text-neutral-400">
               <img
-                src="public/pixicon.png"
+                src="/pixicon.png"
                 alt="PIX"
                 className="mx-auto mb-2 h-[300px] w-[300px] rounded-2xl object-cover"
               />

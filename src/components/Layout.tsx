@@ -16,7 +16,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
     <>
       {loading && <Loader />}
       {!loading && (
-        <div>
+        <div className="max-w-screen-xl mx-auto">
           <Header />
           <main className="mx-auto max-w-7xl mt-28">{children}</main>
           <Footer />

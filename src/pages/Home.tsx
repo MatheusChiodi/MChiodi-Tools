@@ -9,14 +9,12 @@ export function Home() {
         transition={{ delay: 0.2, duration: 0.8 }}
         className="mt-24 space-y-8 text-center"
       >
-        {/* Título */}
         <h1 className="text-4xl font-extrabold leading-tight text-neutral-50 md:text-6xl">
           Todas as ferramentas que um <span className="text-blue-400">dev</span>{" "}
           precisa. <br className="hidden md:block" /> Simples, rápido e
           gratuito.
         </h1>
 
-        {/* Texto explicativo */}
         <div className="space-y-5 text-base text-neutral-400 md:text-lg">
           <p>
             O <span className="font-semibold text-blue-400">MChiodi Tools</span>{" "}

@@ -12,7 +12,6 @@ export function Footer() {
       className="mt-32 w-full border-t border-neutral-800 bg-neutral-950 backdrop-blur-md"
     >
       <div className="mx-auto flex max-w-7xl flex-col justify-between gap-10 px-6 py-12 md:flex-row">
-        {/* Logo + Sobre */}
         <div className="flex flex-col gap-4">
           <Link to="/" className="text-2xl font-extrabold text-neutral-50">
             <span className="text-blue-400">MChiodi</span>Tools
@@ -22,7 +21,6 @@ export function Footer() {
           </p>
         </div>
 
-        {/* Social */}
         <div className="flex w-[320px] flex-col md:items-center">
           <div className="flex gap-5">
             <a href="https://github.com/MatheusChiodi" target="_blank">
@@ -40,7 +38,6 @@ export function Footer() {
           </div>
         </div>
 
-        {/* Navegação */}
         <div className="flex w-[320px] flex-col gap-6 md:flex-row md:justify-end md:gap-16">
           <div>
             <h3 className="mb-3 text-sm font-semibold text-neutral-200">
@@ -72,7 +69,6 @@ export function Footer() {
         </div>
       </div>
 
-      {/* Copyright */}
       <div className="border-t border-neutral-800 py-6 text-center text-xs text-neutral-500">
         © 2025 MChiodi Tools. Todos os direitos reservados.
       </div>

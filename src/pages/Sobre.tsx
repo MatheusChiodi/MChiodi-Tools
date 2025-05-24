@@ -106,7 +106,6 @@ export function Sobre() {
           </ul>
         </div>
 
-        {/* 🔥 PIX Section */}
         <div className="space-y-4 border-t border-neutral-800 pt-8">
           <h2 className="text-2xl font-bold text-neutral-100">
             Apoie o projeto ❤️

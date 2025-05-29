@@ -1,20 +1,20 @@
 # 🔧 MChiodi Tools
 
-Um site desenvolvido com foco em produtividade para desenvolvedores. O **MChiodi Tools** oferece diversas ferramentas online, gratuitas e rápidas para te ajudar no dia a dia do desenvolvimento.
+A productivity-focused website built for developers. **MChiodi Tools** offers a variety of fast, free, and online tools to assist you in your daily development workflow.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Technologies Used
 
 - ⚛️ **React.js**
 - ⚡ **Vite.js**
 - 🎨 **Tailwind CSS**
 - 🔥 **TypeScript**
-- 🎞️ **Framer Motion** (animações)
+- 🎞️ **Framer Motion** (for animations)
 - 🌐 **React Router DOM**
 
-## 🌟 Funcionalidades
+## 🌟 Features
 
-- ✅ Navegação rápida e responsiva
-- ✅ Buscador inteligente de ferramentas
-- ✅ Animações suaves e design moderno
-- ✅ Ferramentas úteis para programadores (validador de CNPJ, gerador de CPF, etc.)
-- ✅ Design responsivo para desktop e mobile
+- ✅ Fast and responsive navigation  
+- ✅ Smart tool search system  
+- ✅ Smooth animations and modern design  
+- ✅ Useful tools for developers (CNPJ validator, CPF generator, and more)  
+- ✅ Fully responsive layout for desktop and mobile

@@ -18,3 +18,25 @@
   --border: 240 3.7% 15%;
 }
 
+/* ===== Scrollbar Customizada ===== */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #000;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #60a5fa;
+  border-radius: 20px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+  transition: background-color 0.5s ease !important	;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #3b82f6;
+  transition: background-color 0.5s ease !important;
+}

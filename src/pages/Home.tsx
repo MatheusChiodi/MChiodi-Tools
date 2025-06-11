@@ -10,9 +10,9 @@ export function Home() {
         className="mt-24 space-y-8 text-center"
       >
         <h1 className="text-4xl font-extrabold leading-tight text-neutral-50 md:text-6xl">
-          Todas as ferramentas que um <span className="text-blue-400">dev</span>{" "}
+          Todas as ferramentas que um <span className="text-blue-00">dev</span>{" "}
           precisa. <br className="hidden md:block" /> Simples, rápido e
-          gratuito.
+          gratuito
         </h1>
 
         <div className="space-y-5 text-base text-neutral-400 md:text-lg">
